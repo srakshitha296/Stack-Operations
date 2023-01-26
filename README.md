@@ -9,7 +9,7 @@
 <li>Stack <b><i>POP</i></b> an element from the Stack.</li>
 <li>Demonstration of <b><i>OVERFLOW</i></b> and <b><i> UNDERFLOW</i></b> situations on Stack.</li>
 <li>Display the status of the Stack.</li>
-<li>Exit</li>
+<li>Exit.</li>
 </ul>
 </body>
 </html>
